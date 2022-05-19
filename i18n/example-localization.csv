@@ -1,0 +1,9 @@
+keys,en,es_MX
+SOME_MESSAGE,Some message,Un mensaje
+$ANOTHER_MESSAGE,Another message,Otro mensaje
+THIRD MESSAGE,Third message,Tercer mensaje
+ENGLISH,English,Inglés
+SPANISH,Spanish,Español
+DEFAULT_RTL,"
+I'm a RichTextLabel but I won't change language automatically",Soy una RichTextLabel pero no cambiaré de idioma automáticamente
+LOCALIZED_RTL,I'm an improved RichTextLabel,Soy una RichTextLabel mejorada
